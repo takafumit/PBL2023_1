@@ -6,6 +6,9 @@ public class HelloMori {
 		
 		System.out.println("I'm Mori!");
 		
+
+		System.out.println("Develop!!");
+		
 		
 		
 		System.out.println("こんにちは！森さん！");
